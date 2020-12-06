@@ -1,0 +1,14 @@
+--- gnu-pw-mgr-2.7.4/doc/gnu-pw-mgr.texi.orig	2020-10-01 01:02:16.000000000 +0200
++++ gnu-pw-mgr-2.7.4/doc/gnu-pw-mgr.texi	2020-12-06 17:10:40.349856738 +0100
+@@ -7,9 +7,9 @@
+ 
+ @setfilename gnu-pw-mgr.info
+ @settitle gnu-pw-mgr - derive a password from an id
+-@dircategory Miscellenaeous tools
++@dircategory Miscellenaeous:
+ @direntry
+-* gnu-pw-mgr: (gnu-pw-mgr).     GNU Password and Security Questions Manager
++* gnu-pw-mgr: (gnu-pw-mgr).		GNU Password and Security Questions Manager
+ @end direntry
+ @setchapternewpage off
+ @syncodeindex pg cp
