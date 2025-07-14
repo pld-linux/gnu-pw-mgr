@@ -32,7 +32,7 @@ hasła, albo hasło zostanie utracone na zawsze.
 
 %prep
 %setup -q
-%patch0 -p1
+%patch -P0 -p1
 
 %build
 %configure
