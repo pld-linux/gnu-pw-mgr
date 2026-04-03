@@ -2,7 +2,7 @@ Summary:	GNU Password and Security Questions Manager
 Summary(pl.UTF-8):	GNU Password Manager - zarządca haseł i pytań bezpieczeństwa
 Name:		gnu-pw-mgr
 Version:	2.7.4
-Release:	1
+Release:	2
 License:	GPL v3+
 Group:		Development/Tools
 Source0:	https://ftp.gnu.org/gnu/gnu-pw-mgr/%{name}-%{version}.tar.xz
